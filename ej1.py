@@ -8,3 +8,5 @@ def mover(discos, tubo1 = 1, pibote = 2, tubo2 = 3):
 if __name__ == "__main__":
     num = 20
     mover(20)
+
+    
